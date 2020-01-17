@@ -4,7 +4,7 @@
   "author": "htu",
   "summary": "",
   "license": "Apache-2.0",
-  "source": "",
+  "source": "git@github.com:BananaBruise/htu_ntp.git",
   "dependencies": [
 
   ],
